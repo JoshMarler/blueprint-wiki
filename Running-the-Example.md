@@ -3,7 +3,7 @@ please start there!
 
 ## GainPlugin
 
-[[images/gainplugin.png | alt=Gain Plugin interface]]
+[[images/gainplugin.jpg | alt=Gain Plugin interface]]
 
 Blueprint includes an extremely simple utility gain plugin to demonstrate the minimal
 code required for integrating Blueprint into a JUCE project. To get it running,
