@@ -41,4 +41,4 @@ $ npm run build
 ```
 
 At this point, we've got everything ready to get our project up and running. Let's
-move on to the next step, running the demo plugin.
+move on to the next step, [[running the demo plugin|running-the-example]].
