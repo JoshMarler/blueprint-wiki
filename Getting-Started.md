@@ -1,5 +1,3 @@
-# Getting Started
-
 This guide assumes you have some familiarity with [React.js](https://reactjs.org/) and with [JUCE](https://juce.com/), and it is therefore recommended that you spend some time getting comfortable there, if you're not already, before embarking on this guide.
 
 ## Dependencies
