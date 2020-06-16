@@ -6,5 +6,6 @@ Documentation:
 * [[Getting Started|getting-started]]
 * [[Running the Example|running-the-example]]
 * [[Starting a New Project|starting-a-new-project]]
+* [[Editor/Debugger Configuration | editor-debugger-configuration]]
 * [[API Overview|api-overview]]
 * [[Resources|resources]]
